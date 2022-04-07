@@ -156,7 +156,7 @@ Start glow */
 /* Main section text glow */
 .markup-eYLPri
 {
-	text-shadow: 2px 0 10px var(--mainGlowColor), -2px 0 10px var(--mainGlowColor);
+	text-shadow: none
 }
 
 .repliedTextContent-2hOYMB.markup-eYLPri, /* but not on reply message preview */
@@ -170,132 +170,132 @@ Start glow */
 /* Superhot Team */
 span[style="color: rgb(196, 0, 0);"]
 {
-	text-shadow: 2px 0 5px var(--SHTeamGlowColor), -2px 0 5px var(--SHTeamGlowColor);
+	text-shadow: none;
 }
 /* SuperBOT */
 span[style="color: rgb(1, 1, 1);"]
 {
-	text-shadow: 2px 0 5px var(--SHMindsGlowColor), -2px 0 5px var(--SHMindsGlowColor);
+	text-shadow: none;
 }
 
 /* Light turquoise */
 span[style="color: rgb(26, 188, 156);"]
 {	
 	--lightturquoise: rgb(26, 188, 156);
-	text-shadow: 2px 0 5px var(--lightturquoise), -2px 0 5px var(--lightturquoise);
+	text-shadow: none;
 }
 	/* Dark turquoise */
 	span[style="color: rgb(17, 128, 106);"]
 	{
 		--darkturquoise: rgb(17, 128, 106);
-		text-shadow: 2px 0 5px var(--darkturquoise), -2px 0 5px var(--darkturquoise);
+		text-shadow: none;
 	}
 /* Light green */
 span[style="color: rgb(46, 204, 113);"]
 {
 	--lightgreen: rgb(46, 204, 113);
-	text-shadow: 2px 0 5px var(--lightgreen), -2px 0 5px var(--lightgreen);
+	text-shadow: none;
 }
 	/* Dark green */
 	span[style="color: rgb(31, 139, 76);"]
 	{
 		--darkgreen: rgb(31, 139, 76);
-		text-shadow: 2px 0 5px var(--darkgreen), -2px 0 5px var(--darkgreen);
+		text-shadow: none;
 	}
 /* Superhot Minds (and Light blue) */
 span[style="color: rgb(52, 152, 219);"]
 {
-	text-shadow: 2px 0 5px var(--SHMindsGlowColor), -2px 0 5px var(--SHMindsGlowColor);	
+	text-shadow: none;	
 }
 	/* Dark blue */
 	span[style="color: rgb(32, 102, 148);"]
 	{
 		--darkblue: rgb(32, 102, 148);
-		text-shadow: 2px 0 5px var(--darkblue), -2px 0 5px var(--darkblue);
+		text-shadow: none;
 	}
 /* Light purple */
 span[style="color: rgb(155, 89, 182);"]
 {
 	--lightpurple: rgb(155, 89, 182);
-	text-shadow: 2px 0 5px var(--lightpurple), -2px 0 5px var(--lightpurple);
+	text-shadow: none;
 }
 	/* Dark purple */
 	span[style="color: rgb(113, 54, 138);"]
 	{
 		--darkpurple: rgb(113, 54, 138);
-		text-shadow: 2px 0 5px var(--darkpurple), -2px 0 5px var(--darkpurple);
+		text-shadow: none;
 	}
 /* Light pink */
 span[style="color: rgb(233, 30, 99);"]
 {
 	--lightpink: rgb(233, 30, 99);
-	text-shadow: 2px 0 5px var(--lightpink), -2px 0 5px var(--lightpink);
+	text-shadow: none;
 }
 	/* Dark pink */
 	span[style="color: rgb(173, 20, 87);"]
 	{
 		--darkpink: rgb(173, 20, 87);
-		text-shadow: 2px 0 5px var(--darkpink), -2px 0 5px var(--darkpink);
+		text-shadow: none;
 	}
 /* Light yellow */
 span[style="color: rgb(241, 196, 15);"]
 {
 	--lightyellow: rgb(241, 196, 15);
-	text-shadow: 2px 0 5px var(--lightyellow), -2px 0 5px var(--lightyellow);
+	text-shadow: none;
 }
 	/* Dark yellow */
 	span[style="color: rgb(194, 124, 14);"]
 	{
 		--darkyellow: rgb(194, 124, 14);
-		text-shadow: 2px 0 5px var(--darkyellow), -2px 0 5px var(--darkyellow);
+		text-shadow: none;
 	}
 /* Light tan */
 span[style="color: rgb(230, 126, 34);"]
 {
 	--lighttan: rgb(230, 126, 34);
-	text-shadow: 2px 0 5px var(--lighttan), -2px 0 5px var(--lighttan);
+	text-shadow: none;
 }
 	/* Dark tan */
 	span[style="color: rgb(168, 67, 0);"]
 	{
 		--darktan: rgb(168, 67, 0);
-		text-shadow: 2px 0 5px var(--darktan), -2px 0 5px var(--darktan);
+		text-shadow: none;
 	}
 /* Light orange */
 span[style="color: rgb(231, 76, 60);"]
 {
 	--lightorange: rgb(231, 76, 60);
-	text-shadow: 2px 0 5px var(--lightorange), -2px 0 5px var(--lightorange);
+	text-shadow: none;
 }
 	/* Dark orange */
 	span[style="color: rgb(153, 45, 34);"]
 	{
 		--darkorange: rgb(153, 45, 34);
-		text-shadow: 2px 0 5px var(--darkorange), -2px 0 5px var(--darkorange);
+		text-shadow: none;
 	}
 /* Light grey */
 span[style="color: rgb(149, 165, 166);"]
 {
 	--lightgrey: rgb(149, 165, 166);
-	text-shadow: 2px 0 5px var(--lightgrey), -2px 0 5px var(--lightgrey);
+	text-shadow: none;
 }
 	/* Dark grey */
 	span[style="color: rgb(151, 156, 159);"]
 	{
 		--darkgrey: rgb(151, 156, 159);
-		text-shadow: 2px 0 5px var(--darkgrey), -2px 0 5px var(--darkgrey);
+		text-shadow: none;
 	}
 /* Light slate */
 span[style="color: rgb(96, 125, 139);"]
 {
 	--lightslate: rgb(96, 125, 139);
-	text-shadow: 2px 0 5px var(--lightslate), -2px 0 5px var(--lightslate);
+	text-shadow: none;
 }
 	/* Dark slate */
 	span[style="color: rgb(84, 110, 122);"]
 	{
 		--darkslate: rgb(84, 110, 122);
-		text-shadow: 2px 0 5px var(--darkslate), -2px 0 5px var(--darkslate);
+		text-shadow: none;
 	}
 
 
@@ -313,7 +313,7 @@ span[style="color: rgb(96, 125, 139);"]
 .markup-eYLPri a /* hyperlinks */
 {
     color: white;
-    text-shadow: 0 0 20px white;
+    text-shadow: none;
 }
 
 /* allows channel and users glow to not clip */
