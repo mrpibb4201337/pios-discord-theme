@@ -1,4 +1,4 @@
-everything down there V is something someone who actually knows what they're doing did i just removed the glow and CENTRALIZED this shit. download the theme file and slap it in
+everything down there V is something someone who actually knows what they're doing did i just removed the glow and CENTRALIZED this shit. download the theme file(NOT forever) and slap it in
 
 # SUPERHOT piOS Discord Theme
 [![GitHub downloads](https://img.shields.io/github/downloads/saltssaumure/pios-discord-theme/total?color=purple&label=GitHub%20downloads&style=flat-square)](https://github.com/Saltssaumure/pios-discord-theme/releases/latest "Latest release")
