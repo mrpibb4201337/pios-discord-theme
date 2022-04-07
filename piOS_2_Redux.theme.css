@@ -43,7 +43,7 @@
     letter-spacing: 0.2pt;
     content: "---------------------";
     color: var(--border);
-    text-shadow: 0 1px 0 var(--border);
+    text-shadow: none;
 }
 
 /* Removes # symbol before channel names */
@@ -68,8 +68,7 @@
 .membersGroup-2eiWxl span,
 .roleColor-nA7BqX:not([style]),
 .username-h_Y3Us:not([style]) {
-    text-shadow:    0 0 5px var(--mainGlowColor),
-                    0 0 10px var(--mainGlowColor);
+    text-shadow:   none;
 }
 
 /* adds red text shadow for hover/active/selected channels and users */
@@ -85,6 +84,5 @@
 /* change selected channel to red */
 .modeUnread-3Cxepe .channelName-3KPsGw {
     color: white;
-    text-shadow:    0 0 5px var(--mainGlowColor),
-                    0 0 10px var(--mainGlowColor);
+    text-shadow:    none;
 }
